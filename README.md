@@ -1,4 +1,1 @@
-### 프로젝트 생성
-```bash
-yarn create next-app blog --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
-```
+### next.js를 이용하여 만든 블로그입니다.
