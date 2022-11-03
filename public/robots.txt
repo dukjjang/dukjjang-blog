@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dukjjang-blog.vercel.app/
+
+# Sitemaps
+Sitemap: https://dukjjang-blog.vercel.app/sitemap.xml
